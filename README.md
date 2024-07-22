@@ -3,6 +3,20 @@
 ![uhc-graphic](https://github.com/user-attachments/assets/48f58653-5dc3-432b-9161-4f26dcbaa828)
 
 ## Introduction
+### This is a Power BI project to analyse the Universal Healthcare Coverage globally using the Universal healthcare service coverage index. 
+
+The SDG Target 3.8 is defined as “Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all. Universal Healthcare Coverage Index is a measure of SDG Indicator 3.8.1 while indicator 3.8.2 focuses on health expenditures in relation to a household’s budget. The two indicators are usually monitored jointly.
+
+The indicator is an index, ranging from 0 to 100 without any units, calculated as the geometric mean of 14 key indicators of health service coverage. These indicators are grouped into four categories of service coverage: 
+
+1. Reproductive, maternal, newborn, and child health
+2. Infectious diseases
+3. Noncommunicable diseases
+4. Service capacity and access
+
+Universal healthcare coverage index is a measure that assesses how well a country provides healthcare to its population.
+
+This Power BI Project will show insights on UHC globally and how the values have changed from 2000 to 2021
 
 
 
