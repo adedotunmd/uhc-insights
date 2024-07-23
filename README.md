@@ -75,4 +75,5 @@ The report comprises 8 pages:
 ![country-2021](https://github.com/user-attachments/assets/37616d34-bba3-4353-bf92-ed2e164505c8)
 
 ### UHC Index by Region for Year 2021
+![UHC Index by Region](https://github.com/user-attachments/assets/ee931f63-d5b9-455d-bea4-43e3e45e127d)
 
