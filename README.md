@@ -37,18 +37,42 @@ Automatically derived images are adjusted to remove and replace unwanted relatio
 
 Adjusted model       |       Auto Model
 :-------------------:|:------------------:
-![Adjusted-Model](https://github.com/user-attachments/assets/1cf7cdbc-4b96-4f78-8e5b-b087daee692b)        
-  
+![Adjusted-Model](https://github.com/user-attachments/assets/1cf7cdbc-4b96-4f78-8e5b-b087daee692b)     |    ![Auto-Model2](https://github.com/user-attachments/assets/543d4e33-0619-43ab-b84f-fa28db8ed422)
+
+
+## Visualisation
+
+The report comprises 8 pages:
+1. UHC Index by Country for Year 2000
+2. UHC Index by Country for Year 2005
+3. UHC Index by Country for Year 2010
+4. UHC Index by Country for Year 2015
+5. UHC Index by Country for Year 2017
+6. UHC Index by Country for Year 2019
+7. UHC Index by Country for Year 2021
+8. UHC Index by Region for 2021
+
+
+### UHC Index by Country for Year 2000
 ![country-2000](https://github.com/user-attachments/assets/85bb9a1a-3386-4eae-b3c1-e7ab34a74ba5)
 
+### UHC Index by Country for Year 2005
 ![country-2005](https://github.com/user-attachments/assets/717eac42-93b6-4d0e-a76c-fd23aa4d6f44)
 
+### UHC Index by Country for Year 2010
 ![country-2010](https://github.com/user-attachments/assets/24ae891b-e873-4704-8f32-e11652d31f5e)
 
+### UHC Index by Country for Year 2015
 ![country-2015](https://github.com/user-attachments/assets/5291123c-eae8-41ff-994f-35a58aa345dd)
 
+### UHC Index by Country for Year 2017
 ![country-2017](https://github.com/user-attachments/assets/032c65e7-dd89-4f8c-856c-537b15659459)
 
+### UHC Index by Country for Year 2019
 ![country-2019](https://github.com/user-attachments/assets/6ffed8d8-837a-4ca2-b526-d5089c196a62)
 
+### UHC Index by Country for Year 2021
 ![country-2021](https://github.com/user-attachments/assets/37616d34-bba3-4353-bf92-ed2e164505c8)
+
+### UHC Index by Region for Year 2021
+
