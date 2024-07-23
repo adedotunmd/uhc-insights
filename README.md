@@ -1,7 +1,7 @@
 # Universal Healthcare Insights
 
 ![uhc-graphic](https://github.com/user-attachments/assets/48f58653-5dc3-432b-9161-4f26dcbaa828)
-
+---
 ## Introduction
 ### This is a Power BI project to analyse the Universal Healthcare Coverage globally using the Universal healthcare service coverage index. 
 
@@ -18,8 +18,22 @@ Universal healthcare coverage index is a measure that assesses how well a countr
 
 This Power BI Project will show insights on UHC globally and how the values have changed from 2000 to 2021
 
+## Problem Statement
+1. Where do the world regions rank using the UHC index?
+2. Which countries rank highest using the UHC index?
+3. Which countries rank lowest using the UHC index?
 
+## Skills/ concepts demonstrated:
 
+The following Power BI features were incorporated:
+- Page Navigation
+- Modelling
+- Filters
+- Reporting
+- Visualisations
+
+  
+The following Power BI features were incorporated: 
 ![country-2000](https://github.com/user-attachments/assets/85bb9a1a-3386-4eae-b3c1-e7ab34a74ba5)
 
 ![country-2005](https://github.com/user-attachments/assets/717eac42-93b6-4d0e-a76c-fd23aa4d6f44)
