@@ -37,7 +37,7 @@ Automatically derived images are adjusted to remove and replace unwanted relatio
 
 Adjusted model       |       Auto Model
 :-------------------:|:------------------:
-
+![Adjusted-Model](https://github.com/user-attachments/assets/1cf7cdbc-4b96-4f78-8e5b-b087daee692b)        
   
 ![country-2000](https://github.com/user-attachments/assets/85bb9a1a-3386-4eae-b3c1-e7ab34a74ba5)
 
