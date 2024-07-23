@@ -32,8 +32,13 @@ The following Power BI features were incorporated:
 - Reporting
 - Visualisations
 
+## Modelling:
+Automatically derived images are adjusted to remove and replace unwanted relationships with the required data.
+
+Adjusted model       |       Auto Model
+:-------------------:|:------------------:
+
   
-The following Power BI features were incorporated: 
 ![country-2000](https://github.com/user-attachments/assets/85bb9a1a-3386-4eae-b3c1-e7ab34a74ba5)
 
 ![country-2005](https://github.com/user-attachments/assets/717eac42-93b6-4d0e-a76c-fd23aa4d6f44)
